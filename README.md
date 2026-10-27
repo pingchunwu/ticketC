@@ -1,6 +1,8 @@
 # TicketC
 A personal tool app that indicates current tickets status, communicating with MySQL with MVVM structure.
 
+See [docs/FEATURES.md](docs/FEATURES.md) for detailed feature documentation.
+
 #### Main Function v2.0
 * Login Page: To give the user a special name to log in, otherwise, will show the info of this app.
 * Tickets Area: To fetch, check, add or delete tickets on the list for both side.
